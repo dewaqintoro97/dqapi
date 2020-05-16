@@ -1,0 +1,9 @@
+restfull api copyright callicoder
+https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/
+
+
+how to deploy heroku
+https://medium.com/make-school/how-to-deploy-your-node-js-mongodb-app-to-the-web-using-heroku-63d4bccf2675
+
+heroku remote
+heroku  https://git.heroku.com/dqapi.git
